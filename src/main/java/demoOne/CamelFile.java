@@ -8,7 +8,7 @@ import org.apache.camel.impl.DefaultCamelContext;
  * Created by 李建红
  * Date:2017/9/5.
  * 版权:数帝网络
- *
+ *文件传输组件的使用
  */
 public class CamelFile {
     public static void main(String[] args) throws Exception {
